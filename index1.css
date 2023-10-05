@@ -15,7 +15,18 @@ p {
     margin: 20px;
 }
 
+ul {
+    margin-left: 40px;
+}
 
+button {
+    background-color: #007acc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
 
-
-/*Hausaufgaben/*
+#additionalInfo {
+    margin-top: 20px;
+}
